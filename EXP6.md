@@ -1,6 +1,6 @@
 # Ex.No: 6 To check whether the string is Palindrome and generate test cases.
 
-### NAME: GOKULA PRIYA P                                                                            
+### NAME: GEORGE PAUL TONY C                                                                 
 ### REGISTER NUMBER : 212222040043
 ### AIM: 
 Write a Python program to check whether the string is Palindrome and generate test cases. 
