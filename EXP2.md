@@ -1,6 +1,6 @@
 # Ex.No: 2   Matrix Multiplication 
 
-### NAME: GOKULA PRIYA P                                                                           
+### NAME: GEORGE PAUL TONY C                                               
 ### REGISTER NUMBER : 212222040043
 
 ### AIM: 
