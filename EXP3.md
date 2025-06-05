@@ -1,6 +1,6 @@
 # Ex.No: 3 To check the number is prime or not and inspect for failures.
  
-### NAME : GOKULA PRIYA P                                                                            
+### NAME : GEORGE PAUL TONY C                                                                   
 ### REGISTER NUMBER : 212222040043
 ### AIM: 
 Write a python program to check the number is prime or not and inspect for failures.
