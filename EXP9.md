@@ -1,6 +1,6 @@
 # Ex.No: 9  Pytest program for Sum of Digits 
 
-### NAME: GOKULA PRIYA P                                                                             
+### NAME: GEORGE PAUL TONY C                                                                  
 ### REGISTER NUMBER :  212222040043
 ### AIM: 
 To write a python program for sum of digits and validate the code using Pytest. 
