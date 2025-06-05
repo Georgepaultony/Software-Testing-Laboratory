@@ -1,5 +1,5 @@
 ### Ex.No: 5 check the given number is present in array or not and inspect for failures.
-### NAME: GOKULA PRIYA P
+### NAME: GEORGE PAUL TONY C
 ### REG NO: 212222040043
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
