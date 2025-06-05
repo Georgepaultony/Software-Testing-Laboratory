@@ -1,6 +1,6 @@
 # Ex.No: 8  Test cases for Banking Application
 
-### NAME: GOKULA PRIYA P                                                                            
+### NAME: GEORGE PAUL TONY C                                                                    
 ### REGISTER NUMBER : 212222040043
 ### AIM: 
 For Banking Applicationsystem study its system specifications and generate test cases.
